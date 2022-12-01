@@ -1,0 +1,12 @@
+{
+  "name": "smart-contracts-truffle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jiro Matsumoto <114434414+GoldenDev91@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0",
+    "ganache": "^7.5.0",
+    "truffle": "^5.6.7"
+  }
+}
